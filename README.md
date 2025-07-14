@@ -7,7 +7,7 @@ This repository contains a Power BI dashboard project built on a comprehensive E
 ## Contents
 
 - `Ecommerce Dataset Analysis.pbix` – Main Power BI dashboard file
-- `screenshots/` – Folder containing visual previews of the dashboard
+- `screenshots` – multiple screenshots containing visual previews of the dashboard
 - `README.md` – Project documentation 
 
 ---
